@@ -5,8 +5,8 @@ This project applies regression models to predict the number of days a customer 
 
 # Key Features:
 
- ✅ Data Preprocessing (Feature Engineering, Dummy Variables, Handling Dates)
- ✅ Regression Model Training & Evaluation (MSE < 3)
- ✅ Hyperparameter Tuning with GridSearchCV
- ✅ Train/Test Split with 20% test data
- ✅ Best Model Selection
+- ✅ Data Preprocessing (Feature Engineering, Dummy Variables, Handling Dates)
+- ✅ Regression Model Training & Evaluation (MSE < 3)
+- ✅ Hyperparameter Tuning with GridSearchCV
+- ✅ Train/Test Split with 20% test data
+- ✅ Best Model Selection
